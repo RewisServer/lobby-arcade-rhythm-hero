@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-13.0.2\bin\jlink.exe" --module-path jmods --add-modules java.sql,javafx.base,javafx.controls --output jre
